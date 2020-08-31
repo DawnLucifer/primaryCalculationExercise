@@ -1,0 +1,56 @@
+JFDML JFormDesigner: "7.0.1.0.272" Java: "11.0.6" encoding: "UTF-8"
+
+new FormModel {
+	contentType: "form/swing"
+	root: new FormRoot {
+		add( new FormContainer( "javax.swing.JPanel", new FormLayoutManager( class com.jformdesigner.runtime.NullLayout ) ) {
+			name: "this"
+			"background": sfield java.awt.Color white
+			"font": new java.awt.Font( "Century Gothic", 1, 22 )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "labelExercise"
+				"font": new java.awt.Font( "Century Gothic", 1, 30 )
+				"foreground": &Color0 new java.awt.Color( 0, 71, 160, 255 )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 10
+				"y": 30
+				"width": 105
+				"height": 55
+			} )
+			add( new FormComponent( "javax.swing.JTextField" ) {
+				name: "textFieldBox"
+				"foreground": new java.awt.Color( 0, 71, 160, 255 )
+				"font": new java.awt.Font( "Century Gothic", 1, 26 )
+				"background": new java.awt.Color( 255, 255, 255, 255 )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 65
+				"height": 55
+				"x": 125
+				"y": 30
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "labelEqual"
+				"font": new java.awt.Font( "Century Gothic", 1, 30 )
+				"foreground": #Color0
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"width": 30
+				"height": 55
+				"x": 100
+				"y": 30
+			} )
+			add( new FormComponent( "javax.swing.JLabel" ) {
+				name: "labelRightAnwer"
+				"font": new java.awt.Font( "Microsoft YaHei UI", 0, 20 )
+				"foreground": new java.awt.Color( 153, 153, 153, 255 )
+			}, new FormLayoutConstraints( class com.jformdesigner.runtime.NullConstraints ) {
+				"x": 190
+				"y": 40
+				"width": 40
+				"height": 37
+			} )
+		}, new FormLayoutConstraints( null ) {
+			"location": new java.awt.Point( 0, 0 )
+			"size": new java.awt.Dimension( 250, 105 )
+		} )
+	}
+}

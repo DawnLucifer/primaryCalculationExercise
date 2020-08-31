@@ -1,0 +1,102 @@
+package ch1;
+
+import java.io.*;
+import java.util.Scanner;
+
+public class BinaryOperationBase {
+
+	private int bound = 101;
+	private int addBase[][];
+	private int subBase[][];
+	private int mixBase[][];
+	private int base[][];
+	//base引用用来统一读写
+
+	public int[][] getAddBase() {
+		return addBase;
+	}
+
+	public int[][] getSunBase() {
+		return subBase;
+	}
+
+	public int[][] getMixBase() {
+		return mixBase;
+	}
+
+	public int[][] getBase() {
+		return base;
+	}
+
+	public void generateAddBase() {
+		addBase = new int [bound][bound];
+		base = addBase;
+		for (int i = 0; i < bound; i++)
+            for (int j = 0; j < bound; j++)
+                if ( i + j < 100 )
+                    addBase[i][j] = i + j;
+	}
+
+	public void generateSubBase() {
+		subBase = new int[bound][bound];
+		base = subBase;
+        for (int i = 0; i < bound; i++)
+            for (int j = 0; j < bound; j++)
+                if ( i - j > 0 )
+                    subBase[i][j] = i - j;
+	}
+
+	public void generateMixBase() {
+		mixBase = new int[bound][bound];
+		base = mixBase;
+		for (int i = 0; i < bound; i++)
+            for (int j = 0; j < bound; j++)
+            {
+                if ( i + j < 100)
+                    mixBase[i][j] = i + j;
+                else if ( i - (100 - j) > 0 )
+                    mixBase[i][j] = i - (100 - j);
+                //高中坐标变换
+            }
+	}
+
+	public void writeBase(String fileName) {
+		File baseFile = new File(fileName);
+		Writer out = null;
+		try {
+			out = new FileWriter(baseFile, false);
+			for (int i = 0; i < bound; i++)
+			{
+				for (int j = 0; j < bound; j++)
+					out.write(base[i][j] + ",");
+				out.write("\n");
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				out.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+
+	public void readBase(String fileName) {
+		File baseFile = new File(fileName);
+		int index = 0;
+		Scanner scan = null;
+		try {
+			scan = new Scanner(baseFile);
+			scan.useDelimiter(",");
+			while (scan.hasNext()) {
+				index++;
+				base[index / bound][index % bound] = scan.nextInt();
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} finally {
+			scan.close();
+		}
+	}
+}
