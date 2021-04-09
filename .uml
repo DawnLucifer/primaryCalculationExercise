@@ -3,790 +3,102 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="183.0" y="4488.0">com</node>
-    <node x="1016.277777777778" y="1209.5">ch2.CheckResultEnum</node>
-    <node x="2933.0090939153442" y="3605.5">ch1.User</node>
-    <node x="3651.8290064915836" y="4226.5">ch3.MainMenu</node>
-    <node x="1852.9120159220915" y="2769.0">ch4.CountDown</node>
-    <node x="2572.8544694545462" y="3120.0">ch4.SettingProperty</node>
-    <node x="502.0072261173782" y="2789.0">ch4.XMLFactory</node>
-    <node x="357.0" y="4488.0">sun</node>
-    <node x="1755.1669694545465" y="4113.0">TestPanel</node>
-    <node x="2630.5165064915836" y="744.5">ch1.MixEquation</node>
-    <node x="3783.9942360915647" y="3717.5">ch3.OnlineMenu</node>
-    <node x="2451.12251984127" y="3605.5">ConSettings</node>
-    <node x="0.0" y="4488.0">java</node>
-    <node x="4400.7031414632165" y="0.0">javax</node>
-    <node x="2405.7370159220914" y="355.0">ch1.Equation</node>
-    <node x="3971.703141463217" y="455.5">ch1.MixBase</node>
-    <node x="2685.572158169487" y="1063.0">ch1.Exercise</node>
-    <node x="780.5740740740741" y="3581.0">ConOnline</node>
-    <node x="1976.7313642441877" y="733.0">ch1.AddEquation</node>
-    <node x="1527.09762113245" y="1096.0">ch2.Submission</node>
-    <node x="3049.5165064915836" y="455.5">ch1.AddBase</node>
-    <node x="1209.8683372284895" y="1916.0">ch2.CheckAnswer</node>
-    <node x="665.9397936998689" y="2407.0">ch4.ExerciseLog</node>
-    <node x="2724.0727302078058" y="893.0">ch1.UserEquation</node>
-    <node x="235.0" y="2430.0">ch4.PieChartData</node>
-    <node x="1191.62887113245" y="3110.0">ExerciseUnit</node>
-    <node x="531.0" y="4488.0">org</node>
-    <node x="2258.8544694545462" y="3143.0">ch2.ExerciseFileOperation</node>
-    <node x="2862.5165064915836" y="455.5">ch1.SubBase</node>
-    <node x="3294.7442360915647" y="3706.0">ch3.OfflineMenu</node>
-    <node x="2210.7313642441877" y="733.0">ch1.SubEquation</node>
-    <node x="150.2572261173782" y="3141.5">ch4.ChartGenerator</node>
-    <node x="0.0" y="2418.5">ch4.BarChartData</node>
-    <node x="3625.2442360915647" y="3130.0">ch3.Menu</node>
-    <node x="4182.7031414632165" y="0.0">META-INF</node>
-    <node x="705.0" y="4488.0">jdk</node>
-    <node x="1585.9120159220915" y="3535.0">ConOffline</node>
-    <node x="3794.4942360915647" y="2441.5">ch3.OnlineCheckAnswer</node>
-    <node x="2916.3227302078058" y="0.0">ch1.EquationBase</node>
-    <node x="1222.6909722222224" y="3581.0">ConReview</node>
-    <node x="3568.7442360915647" y="3741.5">addones</node>
-    <node x="30.057226117378377" y="3661.5">ConHome</node>
+    <node x="1353.0" y="1751.0">com</node>
+    <node x="1053.0" y="896.0">ch1.User</node>
+    <node x="934.0" y="256.5">ch3.MainMenu</node>
+    <node x="261.0" y="1751.0">ch2.CheckResultEnum</node>
+    <node x="285.0" y="1245.0">ch4.CountDown</node>
+    <node x="1493.0" y="1245.0">ch4.SettingProperty</node>
+    <node x="528.0" y="1245.0">ch4.XMLFactory</node>
+    <node x="1527.0" y="1751.0">sun</node>
+    <node x="1422.0" y="494.0">TestPanel</node>
+    <node x="847.0" y="775.5">ch1.MixEquation</node>
+    <node x="669.0" y="256.5">ch3.OnlineMenu</node>
+    <node x="583.0" y="896.0">ConSettings</node>
+    <node x="1170.0" y="1751.0">java</node>
+    <node x="978.0" y="1751.0">javax</node>
+    <node x="625.5" y="494.0">ch1.Equation</node>
+    <node x="186.0" y="1143.0">ch1.MixBase</node>
+    <node x="1103.0" y="494.0">ch1.Exercise</node>
+    <node x="613.0" y="764.0">ch1.AddEquation</node>
+    <node x="1174.0" y="0.0">ConOnline</node>
+    <node x="1301.0" y="896.0">ch2.Submission</node>
+    <node x="372.0" y="1143.0">ch1.AddBase</node>
+    <node x="0.0" y="1533.0">ch4.ExerciseLog</node>
+    <node x="0.0" y="1245.0">ch2.CheckAnswer</node>
+    <node x="1263.0" y="1533.0">ch4.PieChartData</node>
+    <node x="0.0" y="1751.0">ch1.UserEquation</node>
+    <node x="867.0" y="1245.0">ExerciseUnit</node>
+    <node x="0.0" y="1877.0">org</node>
+    <node x="664.0" y="1533.0">ch2.ExerciseFileOperation</node>
+    <node x="381.0" y="764.0">ch1.SubEquation</node>
+    <node x="337.0" y="1533.0">ch4.ChartGenerator</node>
+    <node x="395.0" y="245.0">ch3.OfflineMenu</node>
+    <node x="0.0" y="1143.0">ch1.SubBase</node>
+    <node x="1003.0" y="1533.0">ch4.BarChartData</node>
+    <node x="667.0" y="0.0">ch3.Menu</node>
+    <node x="550.0" y="1751.0">META-INF</node>
+    <node x="174.0" y="1877.0">jdk</node>
+    <node x="0.0" y="0.0">ConOffline</node>
+    <node x="1480.0" y="1533.0">ch3.OnlineCheckAnswer</node>
+    <node x="163.5" y="896.0">ch1.EquationBase</node>
+    <node x="0.0" y="494.0">ConReview</node>
+    <node x="768.0" y="1751.0">addones</node>
+    <node x="1119.0" y="1245.0">ConHome</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="ConOffline" target="ch2.CheckResultEnum">
-      <point x="-37.5" y="-234.0" />
-      <point x="1723.4120159220915" y="3455.0" />
-      <point x="1752.3232194545462" y="3455.0" />
-      <point x="1752.3232194545462" y="1596.0" />
-      <point x="1246.7222222222224" y="1596.0" />
-      <point x="108.44444444444434" y="40.0" />
-    </edge>
-    <edge source="ch2.CheckAnswer" target="ch1.Equation">
-      <point x="20.0" y="-140.5" />
-      <point x="1349.8683372284895" y="1646.0" />
-      <point x="1356.1183372284895" y="1646.0" />
-      <point x="1356.1183372284895" y="653.0" />
-      <point x="2424.6370159220915" y="653.0" />
-      <point x="-75.59999999999991" y="129.0" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.MixEquation">
-      <point x="-13.5" y="-50.0" />
-      <point x="2818.5727302078058" y="833.0" />
-      <point x="2736.0165064915836" y="833.0" />
-      <point x="0.0" y="28.5" />
-    </edge>
-    <edge source="ch3.Menu" target="ch1.Exercise">
-      <point x="0.0" y="-97.5" />
-      <point x="3749.7442360915647" y="1516.0" />
-      <point x="2913.9054915028205" y="1516.0" />
-      <point x="91.33333333333348" y="186.5" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.SubEquation">
-      <point x="-67.5" y="-50.0" />
-      <point x="2764.5727302078058" y="853.0" />
-      <point x="2387.3980309108547" y="853.0" />
-      <point x="70.66666666666674" y="40.0" />
-    </edge>
-    <edge source="ch1.SubEquation" target="ch1.EquationBase">
-      <point x="-70.66666666666674" y="-40.0" />
-      <point x="2246.064697577521" y="633.0" />
-      <point x="2313.070349255425" y="633.0" />
-      <point x="2313.070349255425" y="275.0" />
-      <point x="2934.940377266629" y="275.0" />
-      <point x="-86.88235294117646" y="117.5" />
-    </edge>
-    <edge source="TestPanel" target="ch1.Exercise">
-      <point x="161.71875" y="-165.0" />
-      <point x="2089.3857194545462" y="4093.0" />
-      <point x="2922.5090939153442" y="4093.0" />
-      <point x="2922.5090939153442" y="1896.0" />
-      <point x="2842.8684544657835" y="1896.0" />
-      <point x="20.296296296296305" y="186.5" />
-    </edge>
-    <edge source="TestPanel" target="ConOnline">
-      <point x="-118.59375" y="-165.0" />
-      <point x="1809.0732194545465" y="4073.0" />
-      <point x="865.3240740740741" y="4073.0" />
-      <point x="-84.75" y="188.0" />
-    </edge>
-    <edge source="ch3.OnlineMenu" target="ch3.OnlineCheckAnswer">
-      <point x="20.416666666666742" y="-51.5" />
-      <point x="3926.9109027582317" y="3515.0" />
-      <point x="3911.9942360915647" y="3515.0" />
-      <point x="3911.9942360915647" y="2749.0" />
-      <point x="3962.4942360915647" y="2749.0" />
-      <point x="56.0" y="61.5" />
-    </edge>
-    <edge source="ch3.MainMenu" target="ch3.OfflineMenu">
-      <point x="-83.57142857142856" y="-51.5" />
-      <point x="3665.7575779201547" y="4093.0" />
-      <point x="3358.2442360915647" y="4093.0" />
-      <point x="-63.5" y="63.0" />
-    </edge>
-    <edge source="ConHome" target="ch4.XMLFactory">
-      <point x="131.60000000000036" y="-107.5" />
-      <point x="326.15722611737874" y="3515.0" />
-      <point x="442.7572261173782" y="3515.0" />
-      <point x="442.7572261173782" y="3090.0" />
-      <point x="612.2572261173782" y="3090.0" />
-      <point x="-36.75" y="120.5" />
-    </edge>
     <edge source="ch3.OnlineMenu" target="ch3.Menu">
-      <point x="-61.25" y="-51.5" />
-      <point x="3845.2442360915647" y="3515.0" />
-      <point x="3853.4942360915647" y="3515.0" />
-      <point x="103.75" y="97.5" />
-    </edge>
-    <edge source="ch1.Exercise" target="ch1.EquationBase">
-      <point x="117.42857142857156" y="-186.5" />
-      <point x="2940.0007295980586" y="1043.0" />
-      <point x="3237.0165064915836" y="1043.0" />
-      <point x="3237.0165064915836" y="295.0" />
-      <point x="3071.469789031335" y="295.0" />
-      <point x="49.64705882352928" y="117.5" />
-    </edge>
-    <edge source="ConReview" target="ch2.CheckResultEnum">
-      <point x="-84.0" y="-188.0" />
-      <point x="1306.6909722222224" y="3425.0" />
-      <point x="1170.12887113245" y="3425.0" />
-      <point x="1170.12887113245" y="1646.0" />
-      <point x="1111.1666666666667" y="1646.0" />
-      <point x="-27.111111111111313" y="40.0" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch4.ExerciseLog">
-      <point x="94.5" y="-120.5" />
-      <point x="743.5072261173782" y="2619.0" />
-      <point x="702.4397936998689" y="2619.0" />
-      <point x="-109.5" y="96.0" />
-    </edge>
-    <edge source="ConOffline" target="ExerciseUnit">
-      <point x="-137.5" y="-234.0" />
-      <point x="1623.4120159220915" y="3365.0" />
-      <point x="1381.37887113245" y="3365.0" />
-      <point x="86.25" y="117.5" />
-    </edge>
-    <edge source="ch1.User" target="ch2.ExerciseFileOperation">
-      <point x="-50.75" y="-163.5" />
-      <point x="2983.7590939153442" y="3445.0" />
-      <point x="2460.9794694545462" y="3445.0" />
-      <point x="55.125" y="84.5" />
-    </edge>
-    <edge source="ConOnline" target="ch2.CheckAnswer">
-      <point x="70.625" y="-188.0" />
-      <point x="1020.6990740740741" y="3515.0" />
-      <point x="1039.0138677739433" y="3515.0" />
-      <point x="1039.0138677739433" y="2367.0" />
-      <point x="1304.1540515142037" y="2367.0" />
-      <point x="-25.71428571428578" y="140.5" />
-    </edge>
-    <edge source="ch2.ExerciseFileOperation" target="ch1.AddEquation">
-      <point x="-117.59999999999991" y="-84.5" />
-      <point x="2288.254469454547" y="3080.0" />
-      <point x="2083.7313642441877" y="3080.0" />
-      <point x="0.0" y="40.0" />
-    </edge>
-    <edge source="ch4.ExerciseLog" target="ch1.Exercise">
-      <point x="-41.71428571428578" y="-96.0" />
-      <point x="770.2255079855831" y="2287.0" />
-      <point x="939.3544694545462" y="2287.0" />
-      <point x="939.3544694545462" y="1776.0" />
-      <point x="2710.9425285398574" y="1776.0" />
-      <point x="-111.62962962962956" y="186.5" />
-    </edge>
-    <edge source="ch3.MainMenu" target="addones">
-      <point x="-27.857142857142833" y="-51.5" />
-      <point x="3721.4718636344405" y="4073.0" />
-      <point x="3651.2442360915647" y="4073.0" />
-      <point x="0.0" y="27.5" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.AddBase">
-      <point x="94.5" y="-50.0" />
-      <point x="2926.5727302078058" y="873.0" />
-      <point x="3132.5165064915836" y="873.0" />
-      <point x="0.0" y="28.5" />
-    </edge>
-    <edge source="ConReview" target="ch2.Submission">
-      <point x="36.0" y="-188.0" />
-      <point x="1426.6909722222224" y="3385.0" />
-      <point x="1618.91012113245" y="3385.0" />
-      <point x="1618.91012113245" y="1726.0" />
-      <point x="1638.66012113245" y="1726.0" />
-      <point x="-7.4375" y="153.5" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.EquationBase">
-      <point x="13.5" y="-50.0" />
-      <point x="2845.5727302078058" y="873.0" />
-      <point x="2852.0165064915836" y="873.0" />
-      <point x="2852.0165064915836" y="315.0" />
-      <point x="2984.5874360901585" y="315.0" />
-      <point x="-37.23529411764707" y="117.5" />
+      <point x="0.0" y="-51.5" />
+      <point x="0.0" y="97.5" />
     </edge>
     <edge source="ch3.OfflineMenu" target="ch3.Menu">
-      <point x="92.36363636363637" y="-63.0" />
-      <point x="3514.1078724552012" y="3505.0" />
-      <point x="3645.9942360915647" y="3505.0" />
-      <point x="-103.75" y="97.5" />
-    </edge>
-    <edge source="ch3.OnlineCheckAnswer" target="ch2.Submission">
-      <point x="-14.0" y="-61.5" />
-      <point x="3892.4942360915647" y="2377.0" />
-      <point x="3917.203141463217" y="2377.0" />
-      <point x="3917.203141463217" y="1496.0" />
-      <point x="1757.66012113245" y="1496.0" />
-      <point x="111.5625" y="153.5" />
-    </edge>
-    <edge source="ConHome" target="ch4.BarChartData">
-      <point x="-65.80000000000018" y="-107.5" />
-      <point x="128.7572261173782" y="3505.0" />
-      <point x="64.33257483615353" y="3505.0" />
-      <point x="-43.0" y="84.5" />
-    </edge>
-    <edge source="ch4.ChartGenerator" target="ch4.BarChartData">
-      <point x="-94.0" y="-86.0" />
-      <point x="197.2572261173782" y="3090.0" />
-      <point x="171.68979369986891" y="3090.0" />
-      <point x="171.68979369986891" y="2739.0" />
-      <point x="107.5" y="2739.0" />
-      <point x="0.0" y="84.5" />
-    </edge>
-    <edge source="ch4.SettingProperty" target="ch1.Exercise">
-      <point x="58.25" y="-107.5" />
-      <point x="2747.6044694545462" y="1876.0" />
-      <point x="2812.424010021339" y="1876.0" />
-      <point x="-10.148148148148039" y="186.5" />
-    </edge>
-    <edge source="ch2.ExerciseFileOperation" target="ch1.SubEquation">
-      <point x="-58.799999999999955" y="-84.5" />
-      <point x="2347.0544694545465" y="3090.0" />
-      <point x="2316.7313642441877" y="3090.0" />
-      <point x="0.0" y="40.0" />
-    </edge>
-    <edge source="TestPanel" target="ConHome">
-      <point x="-161.71875" y="-165.0" />
-      <point x="1765.9482194545465" y="4093.0" />
-      <point x="112.30722611737838" y="4093.0" />
-      <point x="-82.25" y="107.5" />
-    </edge>
-    <edge source="ch1.Equation" target="ch1.EquationBase">
-      <point x="-47.25" y="-129.0" />
-      <point x="2452.9870159220914" y="285.0" />
-      <point x="2947.3521419725116" y="285.0" />
-      <point x="-74.47058823529414" y="117.5" />
-    </edge>
-    <edge source="ch1.AddEquation" target="ch1.EquationBase">
-      <point x="-71.33333333333326" y="-40.0" />
-      <point x="2012.3980309108547" y="633.0" />
-      <point x="2079.4036825887583" y="633.0" />
-      <point x="2079.4036825887583" y="265.0" />
-      <point x="2922.5286125607468" y="265.0" />
-      <point x="-99.29411764705878" y="117.5" />
-    </edge>
-    <edge source="TestPanel" target="ch4.CountDown">
-      <point x="32.34375" y="-165.0" />
-      <point x="1960.0107194545465" y="4093.0" />
-      <point x="1957.4120159220915" y="4093.0" />
-      <point x="1957.4120159220915" y="3090.0" />
-      <point x="1964.2870159220915" y="3090.0" />
-      <point x="12.375" y="140.5" />
-    </edge>
-    <edge source="ConReview" target="ch2.ExerciseFileOperation">
-      <point x="132.0" y="-188.0" />
-      <point x="1522.6909722222224" y="3485.0" />
-      <point x="2277.2294694545462" y="3485.0" />
-      <point x="-128.625" y="84.5" />
+      <point x="0.0" y="-63.0" />
+      <point x="522.0" y="220.0" />
+      <point x="708.5" y="220.0" />
+      <point x="-83.0" y="97.5" />
     </edge>
     <edge source="ch1.AddBase" target="ch1.EquationBase">
-      <point x="-41.5" y="-28.5" />
-      <point x="3091.0165064915836" y="325.0" />
-      <point x="3034.234494913688" y="325.0" />
-      <point x="12.411764705882433" y="117.5" />
-    </edge>
-    <edge source="ch2.CheckAnswer" target="ch1.Exercise">
-      <point x="100.0" y="-140.5" />
-      <point x="1429.8683372284895" y="1806.0" />
-      <point x="2741.386972984302" y="1806.0" />
-      <point x="-81.18518518518522" y="186.5" />
-    </edge>
-    <edge source="ConOnline" target="ch4.ExerciseLog">
-      <point x="-70.625" y="-188.0" />
-      <point x="879.4490740740741" y="3465.0" />
-      <point x="915.6461150062671" y="3465.0" />
-      <point x="915.6461150062671" y="2739.0" />
-      <point x="848.4397936998689" y="2739.0" />
-      <point x="36.5" y="96.0" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch1.SubEquation">
-      <point x="-10.5" y="-120.5" />
-      <point x="638.5072261173782" y="2669.0" />
-      <point x="594.9397936998689" y="2669.0" />
-      <point x="594.9397936998689" y="873.0" />
-      <point x="2246.064697577521" y="873.0" />
-      <point x="-70.66666666666674" y="40.0" />
-    </edge>
-    <edge source="ConOnline" target="ch1.Exercise">
-      <point x="98.875" y="-188.0" />
-      <point x="1048.9490740740741" y="3515.0" />
-      <point x="1050.0138677739433" y="3515.0" />
-      <point x="1050.0138677739433" y="2387.0" />
-      <point x="1460.3683372284895" y="2387.0" />
-      <point x="1460.3683372284895" y="1816.0" />
-      <point x="2751.53512113245" y="1816.0" />
-      <point x="-71.03703703703695" y="186.5" />
-    </edge>
-    <edge source="ch1.User" target="ch1.Exercise">
-      <point x="16.916666666666742" y="-163.5" />
-      <point x="3051.4257605820108" y="3515.0" />
-      <point x="3065.7410435286206" y="3515.0" />
-      <point x="3065.7410435286206" y="1876.0" />
-      <point x="2863.1647507620796" y="1876.0" />
-      <point x="40.59259259259261" y="186.5" />
-    </edge>
-    <edge source="ConOffline" target="ch2.ExerciseFileOperation">
-      <point x="162.5" y="-234.0" />
-      <point x="1923.4120159220915" y="3515.0" />
-      <point x="2387.4794694545462" y="3515.0" />
-      <point x="-18.375" y="84.5" />
-    </edge>
-    <edge source="TestPanel" target="ConSettings">
-      <point x="97.03125" y="-165.0" />
-      <point x="2024.6982194545465" y="4063.0" />
-      <point x="2557.37251984127" y="4063.0" />
-      <point x="-106.25" y="163.5" />
-    </edge>
-    <edge source="ConOnline" target="ExerciseUnit">
-      <point x="127.125" y="-188.0" />
-      <point x="1077.1990740740741" y="3505.0" />
-      <point x="1208.87887113245" y="3505.0" />
-      <point x="-86.25" y="117.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch2.CheckAnswer">
-      <point x="136.5" y="-120.5" />
-      <point x="785.5072261173782" y="2749.0" />
-      <point x="968.4397936998689" y="2749.0" />
-      <point x="968.4397936998689" y="2347.0" />
-      <point x="1269.8683372284895" y="2347.0" />
-      <point x="-60.0" y="140.5" />
-    </edge>
-    <edge source="ch1.MixEquation" target="ch1.EquationBase">
-      <point x="70.33333333333326" y="-28.5" />
-      <point x="2806.3498398249167" y="713.0" />
-      <point x="2789.156063541139" y="713.0" />
-      <point x="2789.156063541139" y="305.0" />
-      <point x="2972.175671384276" y="305.0" />
-      <point x="-49.647058823529505" y="117.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch2.Submission">
-      <point x="10.5" y="-120.5" />
-      <point x="659.5072261173782" y="2659.0" />
-      <point x="611.4397936998689" y="2659.0" />
-      <point x="611.4397936998689" y="2227.0" />
-      <point x="874.206321306398" y="2227.0" />
-      <point x="874.206321306398" y="1656.0" />
-      <point x="1534.53512113245" y="1656.0" />
-      <point x="-111.5625" y="153.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch1.AddEquation">
-      <point x="-31.5" y="-120.5" />
-      <point x="617.5072261173782" y="2679.0" />
-      <point x="583.9397936998689" y="2679.0" />
-      <point x="583.9397936998689" y="863.0" />
-      <point x="2012.3980309108547" y="863.0" />
-      <point x="-71.33333333333326" y="40.0" />
-    </edge>
-    <edge source="ch2.ExerciseFileOperation" target="ch1.Exercise">
-      <point x="117.59999999999991" y="-84.5" />
-      <point x="2523.4544694545466" y="3090.0" />
-      <point x="2636.5727302078058" y="3090.0" />
-      <point x="2636.5727302078058" y="1866.0" />
-      <point x="2802.2758618731905" y="1866.0" />
-      <point x="-20.296296296296305" y="186.5" />
-    </edge>
-    <edge source="ConOnline" target="ch2.Submission">
-      <point x="-14.125" y="-188.0" />
-      <point x="935.9490740740741" y="3485.0" />
-      <point x="1000.9397936998689" y="3485.0" />
-      <point x="1000.9397936998689" y="2287.0" />
-      <point x="1112.7803953804723" y="2287.0" />
-      <point x="1112.7803953804723" y="1706.0" />
-      <point x="1608.91012113245" y="1706.0" />
-      <point x="-37.1875" y="153.5" />
-    </edge>
-    <edge source="ConHome" target="ch4.ChartGenerator">
-      <point x="65.80000000000018" y="-107.5" />
-      <point x="260.35722611737856" y="3515.0" />
-      <point x="291.2572261173782" y="3515.0" />
-      <point x="0.0" y="86.0" />
-    </edge>
-    <edge source="ch3.OfflineMenu" target="ch2.ExerciseFileOperation">
-      <point x="-92.36363636363637" y="-63.0" />
-      <point x="3329.3805997279287" y="3425.0" />
-      <point x="2534.4794694545462" y="3425.0" />
-      <point x="128.625" y="84.5" />
-    </edge>
-    <edge source="ch2.CheckAnswer" target="ch2.Submission">
-      <point x="60.0" y="-140.5" />
-      <point x="1389.8683372284895" y="1716.0" />
-      <point x="1623.78512113245" y="1716.0" />
-      <point x="-22.3125" y="153.5" />
-    </edge>
-    <edge source="ch4.ChartGenerator" target="ch4.XMLFactory">
-      <point x="94.0" y="-86.0" />
-      <point x="385.2572261173782" y="3080.0" />
-      <point x="538.7572261173782" y="3080.0" />
-      <point x="-110.25" y="120.5" />
+      <point x="0.0" y="-28.5" />
+      <point x="455.0" y="1118.0" />
+      <point x="339.3333333333333" y="1118.0" />
+      <point x="70.33333333333331" y="98.5" />
     </edge>
     <edge source="ch1.SubEquation" target="ch1.Equation">
       <point x="0.0" y="-40.0" />
-      <point x="2316.7313642441877" y="693.0" />
-      <point x="2475.0370159220915" y="693.0" />
-      <point x="-25.200000000000045" y="129.0" />
-    </edge>
-    <edge source="ConOffline" target="ch4.CountDown">
-      <point x="87.5" y="-234.0" />
-      <point x="1848.4120159220915" y="3465.0" />
-      <point x="1884.1063642441877" y="3465.0" />
-      <point x="1884.1063642441877" y="3090.0" />
-      <point x="1890.0370159220915" y="3090.0" />
-      <point x="-61.875" y="140.5" />
+      <point x="487.0" y="739.0" />
+      <point x="657.0" y="739.0" />
+      <point x="-63.0" y="110.0" />
     </edge>
     <edge source="ch1.MixEquation" target="ch1.Equation">
-      <point x="-70.33333333333326" y="-28.5" />
-      <point x="2665.68317315825" y="673.0" />
-      <point x="2563.2370159220914" y="673.0" />
-      <point x="63.0" y="129.0" />
-    </edge>
-    <edge source="ch1.Exercise" target="ch1.UserEquation">
-      <point x="39.14285714285711" y="-186.5" />
-      <point x="2861.715015312344" y="1043.0" />
-      <point x="2886.0727302078058" y="1043.0" />
-      <point x="54.0" y="50.0" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.Equation">
-      <point x="-40.5" y="-50.0" />
-      <point x="2791.5727302078058" y="843.0" />
-      <point x="2606.0165064915836" y="843.0" />
-      <point x="2606.0165064915836" y="683.0" />
-      <point x="2550.6370159220915" y="683.0" />
-      <point x="50.399999999999864" y="129.0" />
-    </edge>
-    <edge source="ConSettings" target="ch4.CountDown">
-      <point x="-177.08333333333326" y="-163.5" />
-      <point x="2486.539186507937" y="3475.0" />
-      <point x="2005.8880131544154" y="3475.0" />
-      <point x="2005.8880131544154" y="3090.0" />
-      <point x="1989.0370159220915" y="3090.0" />
-      <point x="37.125" y="140.5" />
-    </edge>
-    <edge source="ch3.OnlineCheckAnswer" target="ch2.CheckAnswer">
-      <point x="-70.0" y="-61.5" />
-      <point x="3836.4942360915647" y="2317.0" />
-      <point x="1441.296908657061" y="2317.0" />
-      <point x="111.42857142857156" y="140.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch4.BarChartData">
-      <point x="-115.5" y="-120.5" />
-      <point x="533.5072261173782" y="2719.0" />
-      <point x="193.5" y="2719.0" />
-      <point x="86.0" y="84.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch1.Equation">
-      <point x="-52.5" y="-120.5" />
-      <point x="596.5072261173782" y="2689.0" />
-      <point x="572.9397936998689" y="2689.0" />
-      <point x="572.9397936998689" y="643.0" />
-      <point x="2412.0370159220915" y="643.0" />
-      <point x="-88.20000000000005" y="129.0" />
-    </edge>
-    <edge source="ch3.OfflineMenu" target="ch2.Submission">
-      <point x="0.0" y="-63.0" />
-      <point x="3420.9531414632165" y="1556.0" />
-      <point x="1727.91012113245" y="1556.0" />
-      <point x="81.8125" y="153.5" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch1.Exercise">
-      <point x="52.5" y="-120.5" />
-      <point x="701.5072261173782" y="2639.0" />
-      <point x="633.4397936998689" y="2639.0" />
-      <point x="633.4397936998689" y="2247.0" />
-      <point x="896.206321306398" y="2247.0" />
-      <point x="896.206321306398" y="1756.0" />
-      <point x="2690.646232243561" y="1756.0" />
-      <point x="-131.92592592592587" y="186.5" />
-    </edge>
-    <edge source="ConOnline" target="ch4.XMLFactory">
-      <point x="-98.875" y="-188.0" />
-      <point x="851.1990740740741" y="3495.0" />
-      <point x="685.7572261173782" y="3495.0" />
-      <point x="36.75" y="120.5" />
-    </edge>
-    <edge source="ConReview" target="ch4.XMLFactory">
-      <point x="-156.0" y="-188.0" />
-      <point x="1234.6909722222224" y="3455.0" />
-      <point x="767.0697261173782" y="3455.0" />
-      <point x="767.0697261173782" y="3090.0" />
-      <point x="759.2572261173782" y="3090.0" />
-      <point x="110.25" y="120.5" />
-    </edge>
-    <edge source="ch4.SettingProperty" target="ch4.CountDown">
-      <point x="-58.25" y="-107.5" />
-      <point x="2631.1044694545462" y="3070.0" />
-      <point x="2038.5370159220915" y="3070.0" />
-      <point x="86.625" y="140.5" />
-    </edge>
-    <edge source="ConReview" target="ch2.CheckAnswer">
-      <point x="-60.0" y="-188.0" />
-      <point x="1330.6909722222224" y="3415.0" />
-      <point x="1181.12887113245" y="3415.0" />
-      <point x="1181.12887113245" y="2377.0" />
-      <point x="1321.296908657061" y="2377.0" />
-      <point x="-8.571428571428442" y="140.5" />
-    </edge>
-    <edge source="ch1.User" target="ch1.Equation">
-      <point x="84.58333333333326" y="-163.5" />
-      <point x="3119.0924272486773" y="3515.0" />
-      <point x="3297.138723544974" y="3515.0" />
-      <point x="3297.138723544974" y="653.0" />
-      <point x="2588.437015922091" y="653.0" />
-      <point x="88.19999999999982" y="129.0" />
-    </edge>
-    <edge source="ConHome" target="ch4.PieChartData">
-      <point x="0.0" y="-107.5" />
-      <point x="194.55722611737838" y="3515.0" />
-      <point x="137.43979369986891" y="3515.0" />
-      <point x="137.43979369986891" y="2749.0" />
-      <point x="256.5" y="2749.0" />
-      <point x="-64.5" y="73.0" />
+      <point x="0.0" y="-28.5" />
+      <point x="952.5" y="739.0" />
+      <point x="783.0" y="739.0" />
+      <point x="63.0" y="110.0" />
     </edge>
     <edge source="ch3.MainMenu" target="ch3.Menu">
-      <point x="27.85714285714289" y="-51.5" />
-      <point x="3777.1861493487263" y="4093.0" />
-      <point x="3755.2442360915647" y="4093.0" />
-      <point x="3755.2442360915647" y="3515.0" />
-      <point x="3770.4942360915647" y="3515.0" />
-      <point x="20.75" y="97.5" />
-    </edge>
-    <edge source="ch4.ChartGenerator" target="ch4.PieChartData">
-      <point x="0.0" y="-86.0" />
-      <point x="291.2572261173782" y="3090.0" />
-      <point x="338.17465128122467" y="3090.0" />
-      <point x="338.17465128122467" y="2749.0" />
-      <point x="299.5" y="2749.0" />
-      <point x="-21.5" y="73.0" />
-    </edge>
-    <edge source="ConSettings" target="ch4.SettingProperty">
-      <point x="35.416666666666515" y="-163.5" />
-      <point x="2699.0391865079364" y="3515.0" />
-      <point x="2718.4794694545462" y="3515.0" />
-      <point x="29.125" y="107.5" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.SubBase">
-      <point x="40.5" y="-50.0" />
-      <point x="2872.5727302078058" y="853.0" />
-      <point x="2945.5165064915836" y="853.0" />
-      <point x="0.0" y="28.5" />
-    </edge>
-    <edge source="ch3.OfflineMenu" target="ch2.CheckAnswer">
-      <point x="-69.27272727272725" y="-63.0" />
-      <point x="3352.4715088188377" y="3505.0" />
-      <point x="3370.6078724552012" y="3505.0" />
-      <point x="3370.6078724552012" y="2347.0" />
-      <point x="1389.8683372284895" y="2347.0" />
-      <point x="60.0" y="140.5" />
+      <point x="0.0" y="-51.5" />
+      <point x="1031.5" y="220.0" />
+      <point x="874.5" y="220.0" />
+      <point x="83.0" y="97.5" />
     </edge>
     <edge source="ch1.SubBase" target="ch1.EquationBase">
-      <point x="41.5" y="-28.5" />
-      <point x="2987.0165064915836" y="335.0" />
-      <point x="3009.4109655019233" y="335.0" />
-      <point x="-12.411764705882433" y="117.5" />
-    </edge>
-    <edge source="ch1.UserEquation" target="ch1.AddEquation">
-      <point x="-94.5" y="-50.0" />
-      <point x="2737.5727302078058" y="863.0" />
-      <point x="2155.064697577521" y="863.0" />
-      <point x="71.33333333333326" y="40.0" />
-    </edge>
-    <edge source="ch3.OnlineCheckAnswer" target="ch1.EquationBase">
-      <point x="70.0" y="-61.5" />
-      <point x="3976.4942360915647" y="2377.0" />
-      <point x="3950.203141463217" y="2377.0" />
-      <point x="3950.203141463217" y="285.0" />
-      <point x="3083.8815537372175" y="285.0" />
-      <point x="62.05882352941171" y="117.5" />
-    </edge>
-    <edge source="ConOffline" target="ch2.Submission">
-      <point x="12.5" y="-234.0" />
-      <point x="1773.4120159220915" y="3475.0" />
-      <point x="1791.7534722222224" y="3475.0" />
-      <point x="1791.7534722222224" y="1576.0" />
-      <point x="1698.16012113245" y="1576.0" />
-      <point x="52.0625" y="153.5" />
-    </edge>
-    <edge source="ConOnline" target="ch2.CheckResultEnum">
-      <point x="-155.375" y="-188.0" />
-      <point x="794.6990740740741" y="3515.0" />
-      <point x="480.5072261173782" y="3515.0" />
-      <point x="480.5072261173782" y="1626.0" />
-      <point x="1029.8333333333337" y="1626.0" />
-      <point x="-108.44444444444434" y="40.0" />
-    </edge>
-    <edge source="TestPanel" target="ConOffline">
-      <point x="-32.34375" y="-165.0" />
-      <point x="1895.3232194545465" y="4033.0" />
-      <point x="1673.4120159220915" y="4033.0" />
-      <point x="-87.5" y="234.0" />
-    </edge>
-    <edge source="ch2.ExerciseFileOperation" target="ch1.Equation">
-      <point x="0.0" y="-84.5" />
-      <point x="2405.8544694545462" y="3090.0" />
-      <point x="2433.2313642441877" y="3090.0" />
-      <point x="2433.2313642441877" y="713.0" />
-      <point x="2500.2370159220914" y="713.0" />
-      <point x="0.0" y="129.0" />
-    </edge>
-    <edge source="ConOffline" target="ch1.Exercise">
-      <point x="37.5" y="-234.0" />
-      <point x="1798.4120159220915" y="3445.0" />
-      <point x="1821.4409722222224" y="3445.0" />
-      <point x="1821.4409722222224" y="1836.0" />
-      <point x="2771.831417428746" y="1836.0" />
-      <point x="-50.74074074074065" y="186.5" />
-    </edge>
-    <edge source="ch3.OnlineMenu" target="ch1.Exercise">
-      <point x="102.08333333333348" y="-51.5" />
-      <point x="4008.5775694248982" y="3515.0" />
-      <point x="4039.9942360915647" y="3515.0" />
-      <point x="4039.9942360915647" y="1456.0" />
-      <point x="2954.498084095413" y="1456.0" />
-      <point x="131.9259259259261" y="186.5" />
-    </edge>
-    <edge source="TestPanel" target="ConReview">
-      <point x="-75.46875" y="-165.0" />
-      <point x="1852.1982194545465" y="4053.0" />
-      <point x="1306.6909722222224" y="4053.0" />
-      <point x="-84.0" y="188.0" />
-    </edge>
-    <edge source="ExerciseUnit" target="ch1.Equation">
-      <point x="0.0" y="-117.5" />
-      <point x="1295.12887113245" y="2749.0" />
-      <point x="1516.59762113245" y="2749.0" />
-      <point x="1516.59762113245" y="663.0" />
-      <point x="2437.2370159220914" y="663.0" />
-      <point x="-63.0" y="129.0" />
-    </edge>
-    <edge source="ConReview" target="ch4.ExerciseLog">
-      <point x="-132.0" y="-188.0" />
-      <point x="1258.6909722222224" y="3445.0" />
-      <point x="1061.0138677739433" y="3445.0" />
-      <point x="1061.0138677739433" y="2739.0" />
-      <point x="921.4397936998689" y="2739.0" />
-      <point x="109.5" y="96.0" />
-    </edge>
-    <edge source="ch3.MainMenu" target="ch3.OnlineMenu">
-      <point x="83.57142857142856" y="-51.5" />
-      <point x="3832.900435063012" y="4093.0" />
-      <point x="3967.7442360915647" y="4093.0" />
-      <point x="61.25" y="51.5" />
-    </edge>
-    <edge source="ConSettings" target="ch1.Exercise">
-      <point x="106.25" y="-163.5" />
-      <point x="2769.87251984127" y="3515.0" />
-      <point x="2816.3544694545462" y="3515.0" />
-      <point x="2816.3544694545462" y="1886.0" />
-      <point x="2822.572158169487" y="1886.0" />
-      <point x="0.0" y="186.5" />
-    </edge>
-    <edge source="ch3.OnlineCheckAnswer" target="ch1.Exercise">
-      <point x="42.0" y="-61.5" />
-      <point x="3948.4942360915647" y="2387.0" />
-      <point x="3939.203141463217" y="2387.0" />
-      <point x="3939.203141463217" y="1476.0" />
-      <point x="2934.2017877991166" y="1476.0" />
-      <point x="111.62962962962979" y="186.5" />
-    </edge>
-    <edge source="ConReview" target="ExerciseUnit">
-      <point x="-36.0" y="-188.0" />
-      <point x="1354.6909722222224" y="3405.0" />
-      <point x="1277.87887113245" y="3405.0" />
-      <point x="-17.25" y="117.5" />
-    </edge>
-    <edge source="ConOffline" target="ch2.CheckAnswer">
-      <point x="-112.5" y="-234.0" />
-      <point x="1648.4120159220915" y="3425.0" />
-      <point x="1719.3232194545462" y="3425.0" />
-      <point x="1719.3232194545462" y="2367.0" />
-      <point x="1355.5826229427753" y="2367.0" />
-      <point x="25.71428571428578" y="140.5" />
-    </edge>
-    <edge source="ConReview" target="ch1.Exercise">
-      <point x="108.0" y="-188.0" />
-      <point x="1498.6909722222224" y="3415.0" />
-      <point x="1651.91012113245" y="3415.0" />
-      <point x="1651.91012113245" y="1826.0" />
-      <point x="2761.6832692805983" y="1826.0" />
-      <point x="-60.888888888888914" y="186.5" />
-    </edge>
-    <edge source="ch4.ExerciseLog" target="ch2.Submission">
-      <point x="-125.14285714285734" y="-96.0" />
-      <point x="686.7969365570116" y="2257.0" />
-      <point x="907.206321306398" y="2257.0" />
-      <point x="907.206321306398" y="1676.0" />
-      <point x="1564.28512113245" y="1676.0" />
-      <point x="-81.8125" y="153.5" />
+      <point x="0.0" y="-28.5" />
+      <point x="83.0" y="1118.0" />
+      <point x="198.66666666666669" y="1118.0" />
+      <point x="-70.33333333333331" y="98.5" />
     </edge>
     <edge source="ch1.AddEquation" target="ch1.Equation">
-      <point x="71.33333333333326" y="-40.0" />
-      <point x="2155.064697577521" y="683.0" />
-      <point x="2462.4370159220916" y="683.0" />
-      <point x="-37.799999999999955" y="129.0" />
-    </edge>
-    <edge source="ch3.OfflineMenu" target="ch1.Exercise">
-      <point x="69.27272727272725" y="-63.0" />
-      <point x="3491.016963364292" y="3515.0" />
-      <point x="3477.174275499599" y="3515.0" />
-      <point x="3477.174275499599" y="1526.0" />
-      <point x="2903.7573433546722" y="1526.0" />
-      <point x="81.18518518518522" y="186.5" />
+      <point x="0.0" y="-40.0" />
+      <point x="0.0" y="110.0" />
     </edge>
     <edge source="ch1.MixBase" target="ch1.EquationBase">
-      <point x="-41.5" y="-28.5" />
-      <point x="4013.203141463217" y="265.0" />
-      <point x="3108.705083148982" y="265.0" />
-      <point x="86.88235294117635" y="117.5" />
-    </edge>
-    <edge source="ch2.CheckAnswer" target="ch2.CheckResultEnum">
-      <point x="-20.0" y="-140.5" />
-      <point x="1309.8683372284895" y="1616.0" />
-      <point x="1192.5000000000002" y="1616.0" />
-      <point x="54.22222222222217" y="40.0" />
-    </edge>
-    <edge source="ch1.Exercise" target="ch1.Equation">
-      <point x="-78.28571428571422" y="-186.5" />
-      <point x="2744.286443883773" y="1033.0" />
-      <point x="2552.2362274401294" y="1033.0" />
-      <point x="2552.2362274401294" y="703.0" />
-      <point x="2525.4370159220916" y="703.0" />
-      <point x="25.200000000000045" y="129.0" />
-    </edge>
-    <edge source="ch4.XMLFactory" target="ch4.PieChartData">
-      <point x="-94.5" y="-120.5" />
-      <point x="554.5072261173782" y="2709.0" />
-      <point x="342.5" y="2709.0" />
-      <point x="21.5" y="73.0" />
-    </edge>
-    <edge source="TestPanel" target="ch4.SettingProperty">
-      <point x="140.15625" y="-165.0" />
-      <point x="2067.8232194545462" y="4083.0" />
-      <point x="2886.62251984127" y="4083.0" />
-      <point x="2886.62251984127" y="3505.0" />
-      <point x="2776.7294694545462" y="3505.0" />
-      <point x="87.375" y="107.5" />
-    </edge>
-    <edge source="ch4.ExerciseLog" target="ch2.CheckAnswer">
-      <point x="41.71428571428578" y="-96.0" />
-      <point x="853.6540794141547" y="2317.0" />
-      <point x="1218.439765799918" y="2317.0" />
-      <point x="-111.42857142857156" y="140.5" />
+      <point x="0.0" y="-28.5" />
+      <point x="0.0" y="98.5" />
     </edge>
   </edges>
-  <settings layout="Hierarchic Group" zoom="0.1999999999999997" x="88.48809523809359" y="1866.5000000000005" />
-  <SelectedNodes>
-    <node>com</node>
-  </SelectedNodes>
+  <settings layout="Hierarchic Group" zoom="0.5999999999999995" x="895.0000000000005" y="307.14285714285734" />
+  <SelectedNodes />
   <Categories>
     <Category>Constructors</Category>
     <Category>Methods</Category>

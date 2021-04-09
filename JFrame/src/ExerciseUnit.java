@@ -1,4 +1,4 @@
-import ch1.Equation;
+import equation.Equation;
 
 import java.awt.*;
 import javax.swing.*;

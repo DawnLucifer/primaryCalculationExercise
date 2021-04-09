@@ -4,4 +4,7 @@
 	<contentEntry url="file://$MODULE_DIR$">
 		<excludeFolder url="file://$MODULE_DIR$/.settings"/>
 	</contentEntry>
+	<levels>
+		<level name="lib" value="project"/>
+	</levels>
 </component>

@@ -1,13 +1,12 @@
 import java.awt.event.*;
-import ch4.BarChartData;
-import ch4.ChartGenerator;
-import ch4.PieChartData;
-import ch4.XMLFactory;
+import chart.BarChartData;
+import chart.ChartGenerator;
+import chart.PieChartData;
+import chart.XMLFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 
 import java.awt.*;
-import java.text.DecimalFormat;
 import javax.swing.*;
 /*
  * Created by JFormDesigner on Thu May 14 12:29:21 CST 2020

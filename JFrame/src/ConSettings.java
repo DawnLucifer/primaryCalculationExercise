@@ -1,16 +1,12 @@
 import javax.swing.event.*;
-import ch1.Exercise;
-import ch2.ExerciseFileOperation;
-import ch4.CountDown;
-import ch4.SettingProperty;
+import equation.Exercise;
+import chart.CountDown;
+import chart.SettingProperty;
 
 import java.awt.*;
 import java.awt.event.*;
-import java.io.File;
-import java.io.IOException;
 import java.util.Objects;
 import javax.swing.*;
-import javax.swing.filechooser.FileFilter;
 /*
  * Created by JFormDesigner on Thu May 28 09:41:14 CST 2020
  */

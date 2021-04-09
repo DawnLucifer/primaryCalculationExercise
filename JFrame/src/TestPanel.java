@@ -1,6 +1,6 @@
-import ch1.Exercise;
-import ch4.CountDown;
-import ch4.SettingProperty;
+import equation.Exercise;
+import chart.CountDown;
+import chart.SettingProperty;
 
 import java.awt.*;
 import java.awt.event.*;

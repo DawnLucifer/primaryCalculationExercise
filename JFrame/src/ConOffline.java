@@ -1,14 +1,13 @@
-import ch1.Exercise;
-import ch2.CheckAnswer;
-import ch2.CheckResultEnum;
-import ch2.ExerciseFileOperation;
-import ch2.Submission;
-import ch4.CountDown;
+import equation.Exercise;
+import check.CheckAnswer;
+import check.CheckResultEnum;
+import check.ExerciseFileOperation;
+import check.Submission;
+import chart.CountDown;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.regex.Pattern;

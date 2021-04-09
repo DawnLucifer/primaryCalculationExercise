@@ -1,9 +1,9 @@
-import ch1.Exercise;
-import ch2.CheckAnswer;
-import ch2.CheckResultEnum;
-import ch2.Submission;
-import ch4.ExerciseLog;
-import ch4.XMLFactory;
+import equation.Exercise;
+import check.CheckAnswer;
+import check.CheckResultEnum;
+import check.Submission;
+import chart.ExerciseLog;
+import chart.XMLFactory;
 
 import java.awt.*;
 import java.awt.event.*;
