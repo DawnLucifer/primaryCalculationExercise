@@ -3,101 +3,25 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="1353.0" y="1751.0">com</node>
-    <node x="1053.0" y="896.0">ch1.User</node>
-    <node x="934.0" y="256.5">ch3.MainMenu</node>
-    <node x="261.0" y="1751.0">ch2.CheckResultEnum</node>
-    <node x="285.0" y="1245.0">ch4.CountDown</node>
-    <node x="1493.0" y="1245.0">ch4.SettingProperty</node>
-    <node x="528.0" y="1245.0">ch4.XMLFactory</node>
-    <node x="1527.0" y="1751.0">sun</node>
-    <node x="1422.0" y="494.0">TestPanel</node>
-    <node x="847.0" y="775.5">ch1.MixEquation</node>
-    <node x="669.0" y="256.5">ch3.OnlineMenu</node>
-    <node x="583.0" y="896.0">ConSettings</node>
-    <node x="1170.0" y="1751.0">java</node>
-    <node x="978.0" y="1751.0">javax</node>
-    <node x="625.5" y="494.0">ch1.Equation</node>
-    <node x="186.0" y="1143.0">ch1.MixBase</node>
-    <node x="1103.0" y="494.0">ch1.Exercise</node>
-    <node x="613.0" y="764.0">ch1.AddEquation</node>
-    <node x="1174.0" y="0.0">ConOnline</node>
-    <node x="1301.0" y="896.0">ch2.Submission</node>
-    <node x="372.0" y="1143.0">ch1.AddBase</node>
-    <node x="0.0" y="1533.0">ch4.ExerciseLog</node>
-    <node x="0.0" y="1245.0">ch2.CheckAnswer</node>
-    <node x="1263.0" y="1533.0">ch4.PieChartData</node>
-    <node x="0.0" y="1751.0">ch1.UserEquation</node>
-    <node x="867.0" y="1245.0">ExerciseUnit</node>
-    <node x="0.0" y="1877.0">org</node>
-    <node x="664.0" y="1533.0">ch2.ExerciseFileOperation</node>
-    <node x="381.0" y="764.0">ch1.SubEquation</node>
-    <node x="337.0" y="1533.0">ch4.ChartGenerator</node>
-    <node x="395.0" y="245.0">ch3.OfflineMenu</node>
-    <node x="0.0" y="1143.0">ch1.SubBase</node>
-    <node x="1003.0" y="1533.0">ch4.BarChartData</node>
-    <node x="667.0" y="0.0">ch3.Menu</node>
-    <node x="550.0" y="1751.0">META-INF</node>
-    <node x="174.0" y="1877.0">jdk</node>
+    <node x="0.0" y="1091.0">com</node>
+    <node x="860.0" y="494.0">ExerciseUnit</node>
+    <node x="174.0" y="1091.0">org</node>
+    <node x="348.0" y="1091.0">sun</node>
+    <node x="0.0" y="494.0">TestPanel</node>
+    <node x="374.0" y="850.0">META-INF</node>
+    <node x="522.0" y="1091.0">jdk</node>
     <node x="0.0" y="0.0">ConOffline</node>
-    <node x="1480.0" y="1533.0">ch3.OnlineCheckAnswer</node>
-    <node x="163.5" y="896.0">ch1.EquationBase</node>
-    <node x="0.0" y="494.0">ConReview</node>
-    <node x="768.0" y="1751.0">addones</node>
-    <node x="1119.0" y="1245.0">ConHome</node>
+    <node x="390.0" y="494.0">ConSettings</node>
+    <node x="994.0" y="850.0">java</node>
+    <node x="802.0" y="850.0">javax</node>
+    <node x="779.0" y="0.0">ConReview</node>
+    <node x="592.0" y="850.0">addones</node>
+    <node x="0.0" y="850.0">ConHome</node>
+    <node x="395.0" y="0.0">ConOnline</node>
   </nodes>
   <notes />
-  <edges>
-    <edge source="ch3.OnlineMenu" target="ch3.Menu">
-      <point x="0.0" y="-51.5" />
-      <point x="0.0" y="97.5" />
-    </edge>
-    <edge source="ch3.OfflineMenu" target="ch3.Menu">
-      <point x="0.0" y="-63.0" />
-      <point x="522.0" y="220.0" />
-      <point x="708.5" y="220.0" />
-      <point x="-83.0" y="97.5" />
-    </edge>
-    <edge source="ch1.AddBase" target="ch1.EquationBase">
-      <point x="0.0" y="-28.5" />
-      <point x="455.0" y="1118.0" />
-      <point x="339.3333333333333" y="1118.0" />
-      <point x="70.33333333333331" y="98.5" />
-    </edge>
-    <edge source="ch1.SubEquation" target="ch1.Equation">
-      <point x="0.0" y="-40.0" />
-      <point x="487.0" y="739.0" />
-      <point x="657.0" y="739.0" />
-      <point x="-63.0" y="110.0" />
-    </edge>
-    <edge source="ch1.MixEquation" target="ch1.Equation">
-      <point x="0.0" y="-28.5" />
-      <point x="952.5" y="739.0" />
-      <point x="783.0" y="739.0" />
-      <point x="63.0" y="110.0" />
-    </edge>
-    <edge source="ch3.MainMenu" target="ch3.Menu">
-      <point x="0.0" y="-51.5" />
-      <point x="1031.5" y="220.0" />
-      <point x="874.5" y="220.0" />
-      <point x="83.0" y="97.5" />
-    </edge>
-    <edge source="ch1.SubBase" target="ch1.EquationBase">
-      <point x="0.0" y="-28.5" />
-      <point x="83.0" y="1118.0" />
-      <point x="198.66666666666669" y="1118.0" />
-      <point x="-70.33333333333331" y="98.5" />
-    </edge>
-    <edge source="ch1.AddEquation" target="ch1.Equation">
-      <point x="0.0" y="-40.0" />
-      <point x="0.0" y="110.0" />
-    </edge>
-    <edge source="ch1.MixBase" target="ch1.EquationBase">
-      <point x="0.0" y="-28.5" />
-      <point x="0.0" y="98.5" />
-    </edge>
-  </edges>
-  <settings layout="Hierarchic Group" zoom="0.5999999999999995" x="895.0000000000005" y="307.14285714285734" />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.4999999999999998" x="865.4120879120891" y="309.5732600732608" />
   <SelectedNodes />
   <Categories>
     <Category>Constructors</Category>

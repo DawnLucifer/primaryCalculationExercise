@@ -16,13 +16,13 @@ import javax.swing.GroupLayout;
 /**
  * @author Brainrain
  */
-public class TestPanel extends JFrame {
+public class Main extends JFrame {
     private final SettingProperty settingProperty;
     private CardLayout cardLayout;
     private Exercise exercise;
     private CountDown countDown;
 
-    public TestPanel() {
+    public Main() {
         initComponents();
         settingProperty = new SettingProperty();
         initExercise();
@@ -280,6 +280,6 @@ public class TestPanel extends JFrame {
     private JLabel labelCountDown;
     // JFormDesigner - End of variables declaration  //GEN-END:variables
     public static void main(String[] args) {
-        new TestPanel();
+        new Main();
     }
 }
