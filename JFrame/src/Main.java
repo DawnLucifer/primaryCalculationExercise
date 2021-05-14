@@ -28,6 +28,7 @@ public class Main extends JFrame {
         initExercise();
         initCountDown();
         TimeNow();
+        setResizable(false);
         setVisible(true);
         initContainer();
     }

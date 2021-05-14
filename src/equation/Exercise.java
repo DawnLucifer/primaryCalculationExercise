@@ -76,7 +76,7 @@ public class Exercise implements Iterable<Equation> {
     public void generateEquations() {
         try {
             //reflect
-            Class baseClass = Class.forName("ch1." + toBaseClass[mode]);
+            Class baseClass = Class.forName("equation." + toBaseClass[mode]);
             Constructor constructor = baseClass.getConstructor();
             equationBase = (EquationBase) constructor.newInstance();
         } catch (Exception e) {

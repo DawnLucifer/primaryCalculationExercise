@@ -2,3 +2,11 @@
 .settings
 .classpath
 .project
+bin
+out
+.txt
+.eml
+.iml
+.png
+.uml
+.jfd
